@@ -16,3 +16,5 @@ class aTestLogin:
         self.login_page.page_input_passwd("123456")
         self.login_page.page_login_click()
 
+    def test_haha(self):
+        pass
