@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"broken","Scripts.test_search.TestSearch.test_search_cases[w-WLAN]","234",""
+"broken","Scripts.test_search.TestSearch.test_search_cases[l-\u79fb\u52a8\u7f51\u7edc]","5811",""
+"broken","Scripts.test_search.TestSearch.test_search_cases[a-\u58c1\u7eb8]","249",""

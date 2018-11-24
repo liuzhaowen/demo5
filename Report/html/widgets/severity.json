@@ -1,0 +1,31 @@
+[ {
+  "uid" : "be693407b0ddff55",
+  "name" : "test_search.TestSearch.test_search_cases[a-\\u58c1\\u7eb8]",
+  "time" : {
+    "start" : 1542876252134,
+    "stop" : 1542876252383,
+    "duration" : 249
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c8455cdd48aeb29a",
+  "name" : "test_search.TestSearch.test_search_cases[l-\\u79fb\\u52a8\\u7f51\\u7edc]",
+  "time" : {
+    "start" : 1542876246307,
+    "stop" : 1542876252118,
+    "duration" : 5811
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d5ec303b72f3c981",
+  "name" : "test_search.TestSearch.test_search_cases[w-WLAN]",
+  "time" : {
+    "start" : 1542876252399,
+    "stop" : 1542876252633,
+    "duration" : 234
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

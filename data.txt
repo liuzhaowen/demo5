@@ -1,0 +1,2 @@
+"name: xiaoming\ndatas:\n  age:\n    test:\n      a: \"b\"\n      c: \"2\"\n  add:\
+  \ \"bj\""

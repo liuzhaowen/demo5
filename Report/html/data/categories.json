@@ -1,0 +1,49 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027D7048EC88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))",
+      "children" : [ {
+        "name" : "test_search.TestSearch.test_search_cases[l-\\u79fb\\u52a8\\u7f51\\u7edc]",
+        "uid" : "c8455cdd48aeb29a",
+        "parentUid" : "0aee1ede73d36545191a9f07cac46704",
+        "status" : "broken",
+        "time" : {
+          "start" : 1542876246307,
+          "stop" : 1542876252118,
+          "duration" : 5811
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search.TestSearch.test_search_cases[a-\\u58c1\\u7eb8]",
+        "uid" : "be693407b0ddff55",
+        "parentUid" : "0aee1ede73d36545191a9f07cac46704",
+        "status" : "broken",
+        "time" : {
+          "start" : 1542876252134,
+          "stop" : 1542876252383,
+          "duration" : 249
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search.TestSearch.test_search_cases[w-WLAN]",
+        "uid" : "d5ec303b72f3c981",
+        "parentUid" : "0aee1ede73d36545191a9f07cac46704",
+        "status" : "broken",
+        "time" : {
+          "start" : 1542876252399,
+          "stop" : 1542876252633,
+          "duration" : 234
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0aee1ede73d36545191a9f07cac46704"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

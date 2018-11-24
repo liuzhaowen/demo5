@@ -1,0 +1,5 @@
+datas:
+  add: bj
+  age:
+    test: {a: b, c: '2'}
+name: "xiaoming\u54C8\u54C8"
